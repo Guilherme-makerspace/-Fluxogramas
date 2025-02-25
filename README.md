@@ -1,4 +1,7 @@
 # Fluxogramas
+
+![1](https://blog.runrun.it/wp-content/uploads/2023/05/blog_132385-Fluxograma-de-processo.png)
+
 ---
 ## O que é?
 
